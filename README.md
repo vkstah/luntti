@@ -6,7 +6,7 @@ Luntti is a collection of resources that I often find myself referring to when o
 
 ### Node
 
-- [Tao of Node](https://alexkondov.com/tao-of-node/) is a great article by Alex Kondov about structuring JavaScript / TypeScript applications, tooling, testing and performance.
+- [Tao of Node](https://alexkondov.com/tao-of-node/) is a great article by Alex Kondov about structuring JavaScript / TypeScript applications, tooling, testing and performance. The article goes into detail about structuring the application into layers, validating requests properly using a library like [Joi](https://joi.dev/) or [Zod](https://zod.dev/), and much else.
 
 ### REST API
 
