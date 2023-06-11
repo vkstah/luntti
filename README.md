@@ -21,3 +21,5 @@ Luntti is a collection of resources that I often find myself referring to when o
 ## Design, styling and CSS
 
 - [Box shadows](https://getcssscan.com/css-box-shadow-examples) are less painful to come up with when you have an example as a starting point.
+
+- Tailwind provides a nice [color palette](https://tailwindcss.com/docs/customizing-colors).
