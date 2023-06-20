@@ -22,4 +22,8 @@ Luntti is a collection of resources that I often find myself referring to when o
 
 - [Box shadows](https://getcssscan.com/css-box-shadow-examples) are less painful to come up with when you have an example as a starting point.
 
+- [Dribble](https://dribbble.com/) for UI design inspiration.
+
+- [Realtime Colors](https://realtimecolors.com/) if you want to test a color scheme on a real website with a clean UI.
+
 - Tailwind provides a nice [color palette](https://tailwindcss.com/docs/customizing-colors).
