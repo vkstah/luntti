@@ -27,3 +27,5 @@ Luntti is a collection of resources that I often find myself referring to when o
 - [Realtime Colors](https://realtimecolors.com/) if you want to test a color scheme on a real website with a clean UI.
 
 - Tailwind provides a nice [color palette](https://tailwindcss.com/docs/customizing-colors).
+
+- [Boxicons](https://boxicons.com/) for free high quality SVGs.
