@@ -4,6 +4,10 @@ Luntti is a collection of resources that I often find myself referring to when o
 
 ## Best practices
 
+### General
+
+- [AHA Programming 💡](https://kentcdodds.com/blog/aha-programming) is an interesting article by Kent C. Dodds about **Avoiding Hasty Abstractions** and prefering duplication over the wrong abstractions.
+
 ### Node
 
 - [Tao of Node](https://alexkondov.com/tao-of-node/) is a great article by Alex Kondov about structuring JavaScript / TypeScript applications, tooling, testing and performance. The article goes into detail about structuring the application into layers, validating requests properly using a library like [Joi](https://joi.dev/) or [Zod](https://zod.dev/), and much else.
