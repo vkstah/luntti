@@ -6,7 +6,7 @@ Luntti is a collection of resources that I often find myself referring to when o
 
 ### General
 
-- [AHA Programming 💡](https://kentcdodds.com/blog/aha-programming) is an interesting article by Kent C. Dodds about **Avoiding Hasty Abstractions** and prefering duplication over the wrong abstractions.
+- [AHA Programming 💡](https://kentcdodds.com/blog/aha-programming) is an interesting article by Kent C. Dodds about **Avoiding Hasty Abstractions (AHA)** and prefering duplication over the wrong abstractions.
 
 ### Node
 
