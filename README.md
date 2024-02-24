@@ -33,3 +33,9 @@ Luntti is a collection of resources that I often find myself referring to when o
 - Tailwind provides a nice [color palette](https://tailwindcss.com/docs/customizing-colors).
 
 - [Boxicons](https://boxicons.com/) for free high quality SVGs.
+
+## Framework specific
+
+### Svelte
+
+- [Melt UI](https://melt-ui.com/) for an accessible, customizable, and delightful headless UI library.
